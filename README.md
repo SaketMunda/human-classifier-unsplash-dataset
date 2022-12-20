@@ -2,7 +2,7 @@
 
 **Problem Definition**:
 
-Building a Human classifier using Transfer Learning on Unsplash Lite Dataset
+Building a Human classifier using Transfer Learning on [Unsplash Lite Dataset](https://unsplash.com/data)
 
 Demo Link : [coming soon]()
 
@@ -29,3 +29,7 @@ So basically, this **custom human-classifier model is a computer vision model wh
 
 
 ## Demo
+
+## Acknowledgements
+
+- [Unsplash](https://unsplash.com/)
