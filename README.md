@@ -15,7 +15,8 @@ So basically, this **custom human-classifier model is a computer vision model wh
 ## What I've Learned
 
 - Data Extraction from [Unsplash Lite Dataset](https://unsplash.com/data)
-- Build your own dataset(train & test) for human and non-human images
+  - Build your own dataset(train & test) for human and non-human images
+  - Check file `create_unsplash_dataset_human_classifier.ipynb`
 - Image preprocessing using `tf.keras.preprocessing.image_dataset_from_directory`
 - Data Augmentation as a layer
 - Using Functional API for building the model
