@@ -33,6 +33,8 @@ So basically, this **custom human-classifier model is a computer vision model wh
 
 *By now you should have two directories train and test in your drive and inside of each directory must contain folders with same name as the class name for the experiment and inside of those folders must have their respective images.*
 
+Also you can read the blog for more details : https://5aket.hashnode.dev/human-classifier-using-transfer-learning
+
 ### Deployment
 
 
